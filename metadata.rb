@@ -12,6 +12,4 @@ supports 'redhat', '>= 6.6'
 
 depends 'java'
 depends 'libartifact', '~> 1.3'
-depends 'poise', '~> 2.2'
-depends 'poise-service', '~> 1.0'
 depends 'selinux'
